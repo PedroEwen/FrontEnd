@@ -14,11 +14,11 @@
     <header class="header">
     <nav class="navbar">
         <ul>
-         <li><a href="http://intranet.mobibrasil.corp/intranet/index.php"></a></li>
-         <li><a href="http://intranet.mobibrasil.corp/intranet/SGM.php">SGI</a></li>  
-         <li><a href="http://intranet.mobibrasil.corp/intranet/ramais.php">RAMAIS INTERNOS</a></li>      
-         <li><a href="http://intranet.mobibrasil.corp/intranet/servicos.php">SERVIÇOS</a></li>
-         <li><a href="http://mobibrasil.com.br/covid/index.html">COVID-19</a></li>
+         <li><a href=""></a></li>
+         <li><a href="">SGI</a></li>  
+         <li><a href="">RAMAIS INTERNOS</a></li>      
+         <li><a href="">SERVIÇOS</a></li>
+         <li><a href=">COVID-19</a></li>
         </ul>
     </nav> 
     </header>
@@ -34,11 +34,11 @@
           <nav> 
              <div class="container">
             <div class="icones">
-             <h3><a href="http://portalmobi.mobibrasil.corp/portalmobi/" id="link" target="blank">Portal MobiBrasil</a></h3>
-             <h3><a href="http://gtfrota.mobibrasil.corp:9091/GTFROTA/Security/Login" id="link" target="blank">GTFrotas</a></h3>
-             <h3><a href="http://projurid.mobibrasil.corp/PJPrimeProcesso/"  id="link" target="blank"><img class="projurid" src="logoprojurid.png"></a></h3>
-             <h3><a href="https://unimobi.micropower.com.br/Performa/Web/Portal/Main/Home.aspx" id="link" target="blank"s><img class="unimobi" src="logounimobi.png" id=unimobi></a></h3>
-             <h3><a href="https://unimobi.micropower.com.br/Performa/Web/Portal/Main/Home.aspx" id="link" target="blank">App aprovação requisição</a></h3>
+             <h3><a href="" id="link" target="blank">Portal MobiBrasil</a></h3>
+             <h3><a href="" id="link" target="blank">GTFrotas</a></h3>
+             <h3><a href=""  id="link" target="blank"><img class="projurid" src="logoprojurid.png"></a></h3>
+             <h3><a href="" id="link" target="blank"s><img class="unimobi" src="logounimobi.png" id=unimobi></a></h3>
+             <h3><a href="" id="link" target="blank">App aprovação requisição</a></h3>
             </div>
             </div>
           </nav>   
